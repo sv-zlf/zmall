@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/zmall.iml" filepath="$PROJECT_DIR$/.idea/zmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zmall-coupon/zmall-coupon.iml" filepath="$PROJECT_DIR$/zmall-coupon/zmall-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zmall-member/zmall-member.iml" filepath="$PROJECT_DIR$/zmall-member/zmall-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zmall-order/zmall-order.iml" filepath="$PROJECT_DIR$/zmall-order/zmall-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zmall-product/zmall-product.iml" filepath="$PROJECT_DIR$/zmall-product/zmall-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zmall-ware/zmall-ware.iml" filepath="$PROJECT_DIR$/zmall-ware/zmall-ware.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zmall-coupon" />
+        <module name="zmall-product" />
+        <module name="zmall-order" />
+        <module name="zmall-member" />
+        <module name="zmall-ware" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="zmall" target="1.5" />
+      <module name="zmall-coupon" target="1.8" />
+      <module name="zmall-member" target="1.8" />
+      <module name="zmall-order" target="1.8" />
+      <module name="zmall-product" target="1.8" />
+      <module name="zmall-ware" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
